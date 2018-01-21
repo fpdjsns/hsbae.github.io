@@ -51,8 +51,8 @@ layout: post
 >5. DIP(The Dependency Inversion Principle) : 의존관계 역전 원칙
 
 ## 높은 응집도(high coherence)
-변경이 일어날 때 모듈의 많은 부분이 바뀌는 것.
-관심도가 비슷한 것들을 모은 것.
+>변경이 일어날 때 모듈의 많은 부분이 바뀌는 것.
+>관심도가 비슷한 것들을 모은 것.
 
 ## 낮은 결합도(low coupling)
 >하나의 오브젝트 변경 시 관계를 맺고 있는 다른 오브젝트에게 변화를 요구하는 정도<br>
